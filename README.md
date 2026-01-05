@@ -32,7 +32,7 @@ L'analyse a permis de comparer deux scénarios :
 ## 🚀 Installation & Usage
 ```bash
 # Cloner le projet
-git clone [https://github.com/amouzougit/SC_Resilience_Twin.git](https://github.com/amouzougit/SC_Resilience_Twin.git)
+git clone https://github.com/amouzougit/SC_Resilience_Twin.git
 
 # Installer les dépendances
 pip install -r requirements.txt
