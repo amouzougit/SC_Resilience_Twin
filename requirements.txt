@@ -3,3 +3,4 @@ simpy==4.0.1       # Simulation à événements discrets (Cœur temporel)
 pandas==2.0.3      # Manipulation de données
 pyyaml==6.0.1      # Configuration propre
 matplotlib==3.7.2  # Visualisation des résultats
+  

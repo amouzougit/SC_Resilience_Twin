@@ -19,7 +19,7 @@ class SCNetworkManager:
         # Stock de sécurité = 3 jours (soit 300 unités)
         nodes = [
             AutomotiveNode("AS_Semi_T2", "tier2", 100, 500), # Principal (Asie)
-            AutomotiveNode("EU_BackUp_T2", "tier2", 100, 1000),   # SECOURS (Europe) - Capacité 50
+            AutomotiveNode("EU_BackUp_T2", "tier2", 100, 1000),   # SECOURS (Europe)
             AutomotiveNode("EU_Elec_T1", "tier1", 100, 300), # Sous-traitant
             AutomotiveNode("FR_Plant_OEM", "oem", 100, 200)  # Usine France
         ]
